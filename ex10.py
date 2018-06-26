@@ -4,7 +4,7 @@ backslash_dog = "I'm \\ a \\ cat."
 
 fat_dog = """
 I'll do a list:
-\t* Cat food
+\t* Dog food
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
